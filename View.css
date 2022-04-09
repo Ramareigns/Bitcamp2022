@@ -1,0 +1,12 @@
+* {
+    background-color: aliceblue;
+}
+
+.title{
+    color: red;
+    font-size: 150px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: yellow;
+
+}
